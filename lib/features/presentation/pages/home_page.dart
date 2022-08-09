@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:oline_shop_app/features/presentation/bloc/product_bloc.dart';
+import 'package:oline_shop_app/features/presentation/bloc/product/bloc/product_bloc.dart';
 import 'package:oline_shop_app/features/presentation/widgets/fake_tabbar_widget.dart';
 import 'package:oline_shop_app/features/presentation/widgets/product_grid_widget.dart';
 
