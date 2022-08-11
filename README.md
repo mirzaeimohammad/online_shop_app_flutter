@@ -1,16 +1,43 @@
 # oline_shop_app
 
-A new Flutter project.
+The aplication is a small online shop app with a product overview page, a product detail page and a shopping basket. 
+It makes use of freezed and the flutter_bloc package for state management, following the clean architecture pattern.
 
-## Getting Started
+<p float="left">
+  <img src="assets/screenshot/cart_1.png" width="250" />
+  <img src="assets/screenshot/cart_2.png" width="250" />
+  <img src="assets/screenshot/cart_3.png" width="250" />
+  <img src="assets/screenshot/cart_4.png" width="250" />
+  <img src="assets/screenshot/cart_5.png" width="250" />
 
-This project is a starting point for a Flutter application.
+# App Overview
+  
+This application is composed by 3 main sections: overview, detail and cart screens.
+The first one shows a list of available fake products. The second one displays the details
+about each product and the final one shows the subtotal, total amount and functions like
+increase, decrease and remove product.
 
-A few resources to get you started if this is your first Flutter project:
+# Supported State Management Solutions
+  
+- [Flutter Bloc 8.0.1 (latest version)](https://pub.dev/packages/flutter_bloc)
+- [Cubit](https://pub.dev/packages/flutter_bloc)
+  
+# Packages 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Freezed](https://pub.dev/packages/freezed)
+- [Modular](https://pub.dev/packages/flutter_modular)
+- [Freezed Annotation](https://pub.dev/packages/freezed_annotation)
+- [Google Fonts](https://pub.dev/packages/google_fonts)
+- [Json Serializable](https://pub.dev/packages/json_serializable)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Future Roadmap
+
+- Add more screens
+- Add more features
+- Add animations
+- Polish the UI
+- Integrate a remote storage 
+
+# scource
+  
+  - [Online Shop App with Clean Architecture, Bloc and Freezed](https://github.com/cindistar/small-online-shop-app-with-bloc-and-clean-arquitecture.git)
