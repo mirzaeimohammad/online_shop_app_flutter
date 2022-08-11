@@ -30,14 +30,6 @@ increase, decrease and remove product.
 - [Google Fonts](https://pub.dev/packages/google_fonts)
 - [Json Serializable](https://pub.dev/packages/json_serializable)
 
-# Future Roadmap
-
-- Add more screens
-- Add more features
-- Add animations
-- Polish the UI
-- Integrate a remote storage 
-
 # scource
   
   - [Online Shop App with Clean Architecture, Bloc and Freezed](https://github.com/cindistar/small-online-shop-app-with-bloc-and-clean-arquitecture.git)
