@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:oline_shop_app/features/domain/entities/product_item_entitity.dart';
-import 'package:oline_shop_app/features/presentation/cubit/cubit/cart_cubit.dart';
+import 'package:oline_shop_app/features/presentation/bloc/cubit/cubit/cart_cubit.dart';
 
 class DetailPage extends StatelessWidget {
   final ProductItemEntity product;
